@@ -8,7 +8,7 @@ It is **a drafting tool - not a calculator and not a simulator.** It won't compu
 
 ## Status
 
-**Early development.** The project is currently at the scaffold stage (Phase 0). The core design has been worked out in advance and is documented; the tool itself is being built **in public, phase by phase**, with each phase leaving it in a coherent, usable state. Expect things to be incomplete or absent for now.
+**Early development.** The current release is **v0.1.0** which contains the foundations of the larger project: the canvas, camera, grid, and placing and moving buildings at their real in-game sizes. The core design has been worked out in advance and is documented; the tool itself is being built **in public, one release at a time**, with each release leaving it in a coherent, usable state. Belts, pipes, multi-select, grouping, save/load and more are planned for upcoming releases. See the [Roadmap](https://github.com/odmonster/FactoPlanno/wiki/Roadmap) for what's coming, and [Releases](https://github.com/odmonster/FactoPlanno/releases) for what's here.
 
 ## Built in public
 
@@ -38,7 +38,8 @@ React + Vite + JavaScript. The stack is deliberately conservative and broadly ap
 
 ## Contributing
 
-FactoPlanno is open-source and built phase by phase against a planned roadmap. If you'd like to help, please read [CONTRIBUTING.md](CONTRIBUTING.md) first. It explains how the phase-based process works and the best way to get involved.
+FactoPlanno is open-source and built according to planned releases against a roadmap. If you'd like to help, please read [CONTRIBUTING.md](CONTRIBUTING.md) first. It explains how releases are planned and the best way to get involved.
+
 
 ## License
 
